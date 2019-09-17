@@ -18,3 +18,5 @@ deploy_key_rsa
 *.xmind
 *.ppt
 *.docx
+gmpy2-2.1.0a1-cp27-cp27m-win_amd64.whl
+gmpy2-2.1.0a1-cp36-cp36m-win_amd64.whl
